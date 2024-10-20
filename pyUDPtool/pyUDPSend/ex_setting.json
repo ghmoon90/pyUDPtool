@@ -1,0 +1,8 @@
+{
+	"castType": "castType.json",
+	"csv_file": "test.csv",
+	"ip": "127.0.0.1",
+	"port": 5500,
+	"header" : "0x000003F264",
+	"checksumNote" : 1
+}

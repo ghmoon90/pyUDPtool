@@ -1,0 +1,1 @@
+python pyUDPm2.py ex_setting.json 

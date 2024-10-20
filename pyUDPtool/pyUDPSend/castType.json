@@ -1,0 +1,10 @@
+{
+    "column1": "double",
+    "column2": "double",
+    "column3": "float",
+    "column4": "float",
+    "column5": "float",
+    "column7": "byte",
+    "column8": "byte",
+    "column9": "byte"
+}
